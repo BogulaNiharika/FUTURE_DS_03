@@ -1,0 +1,6 @@
+{
+  "name": "Marketing Funnel & Lead Conversion Analysis",
+  "description": "Interactive data analytics platform demonstrating a full marketing funnel, channel performance, lead quality segmentation, drop-off analysis, and CRO simulation based on the UCI Bank Marketing Dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
